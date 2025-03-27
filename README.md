@@ -1,7 +1,8 @@
 # Practica UF4-Instal·lació i configuració de moodle
 Inicia sessió com a administrador del teu Moodle i realitza les següents tasques prèvies d'administració.
-
-a) Canvia la teva direcció de correu electrònic i també la teva contrasenya per una altra. Afegeix-te a més un avatar. Tot això es pot fer anant al teu perfil (opció que apareix sota el teu nom que es veu a la part superior dreta de la finestra del Moodle) i clicant sobre l'enllaç Editar (o també anant a l'opció Preferències, situada al mateix lloc).
+![Captura de pantalla de 2025-03-13 10-57-20](https://github.com/user-attachments/assets/4c2a9056-968c-4553-8e57-931fb69ee861)
+Nada mas entrar a Moodle tendremos que irnos a Pagina Principal y Editar perfil y ahi configuramos todo con nuestros datos personales, 
+a) Canvia la teva direcció de correu electrònic i també la teva contrasenya per una altra. Afegeix-te a més un avatar.
 
 ### b) Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina principal no mostri res pels usuaris que no estiguin autentificats. 
 ![Captura de pantalla de 2025-03-14 14-26-20](https://github.com/user-attachments/assets/92f1332a-3e0a-4d39-a0c9-68764ad680fe)
@@ -10,13 +11,20 @@ a) Canvia la teva direcció de correu electrònic i també la teva contrasenya p
 
 A continuación como se observa, tendremos que cambiar el nombre entonces tendremos que ir a pagina principal y a sus ajustes y alli dentro ya nos vamos a los dos primeros apartados y cambaiamos los nombres
 
-### c) Comprova que la franja horària del teu lloc sigui la correcta. Això es pot fer anant a l'opció Administració del lloc > Ubicació > Paràmetres.
+### c) Comprova que la franja horària del teu lloc sigui la correcta.
 ![Captura de pantalla de 2025-03-14 14-31-26](https://github.com/user-attachments/assets/8b8c1aca-5693-46a5-9e73-0b4bcf464860)
 ![Captura de pantalla de 2025-03-14 14-32-00](https://github.com/user-attachments/assets/7ee42e36-9cc0-4e0a-aeff-40749177da65)
 
 Aqui tendremos que ir a Ubicacion para poder acceder a los ajustes de ubicacion y en el primer apartado podremos cambiar la franja horaria poniendo "Europa/Madrid" como se observa en la imagen 
 
-### d) Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció Administració del lloc > Idioma > Paràmetres i tenint en compte tant el checkbox Detecció automàtica de l'idioma com el desplegable Idioma per defecte.
+### d) Canvia l'idioma del teu lloc. 
+![Captura de pantalla de 2025-03-20 13-48-09](https://github.com/user-attachments/assets/74dcf7cd-f6cc-4a0e-8284-eb5ae2ad7728)
+![Captura de pantalla de 2025-03-20 13-50-07](https://github.com/user-attachments/assets/9ed6c908-9939-4ada-8577-6e7c334e1eb0)
+
+Tendremos que ir a Idiomas y seguidamente entrar en los ajustes para poder cambiar el idioma, se cambia con un desplegble y el idioma es /Español(es_wp) este sera,se puede apreciar en las fotos, seguidamente tendremos que importar paquetes de idiomas para poder usarlos a la hora de usar Moodle, y esto se encuentra abajo de ajustes de idioma en "Paqutes de idioma" ahi os saldran dos columnas y ahi unicamente buscais los idiomas que querais y los seleccionais para importarlos, como se ve en la siguiente foto 
+
+![Captura de pantalla de 2025-03-20 13-52-11](https://github.com/user-attachments/assets/ce3fdaee-122a-494d-afd5-f7c4f0b07b13)
+
 
 NOTA: Per disposar d'un determinat idioma, primer cal instal.lar-lo des de Administració del lloc > Idioma > Paquets d'idioma
 
