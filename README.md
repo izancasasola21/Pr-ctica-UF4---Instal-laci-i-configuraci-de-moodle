@@ -43,8 +43,14 @@ En este paso tendremos que irnos a administracion del sitio, despues a seguridad
 
 ### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de Administració del lloc > Gestiona cursos i categories o també des del quadre Navegació anant a Cursos > Afegeix curs
 ![Captura de pantalla de 2025-03-20 13-55-11](https://github.com/user-attachments/assets/15224274-3508-47a8-b783-ef5db18695c1)
+Tendremos que ir a Cursos, seguidamente a Crear un Curso
+
 ![Captura de pantalla de 2025-03-20 13-58-08](https://github.com/user-attachments/assets/bee0bb5a-62c0-4ced-9857-c68928bb1926)
+Cuando ya estamos aqui ponemos su respectivo nombre y su categoria y si bajamos...
+
 ![Captura de pantalla de 2025-03-20 13-58-19](https://github.com/user-attachments/assets/e11f6d8c-d376-49c0-87bc-b759c9ba63f8)
+Aqui tendremos que poner las secciones que queremos que en este caso son 3 y ahora tendremos que hacer otro
+
 ![Captura de pantalla de 2025-03-20 13-59-56](https://github.com/user-attachments/assets/fb451674-99f3-4b79-b6c5-a0eb0abc51f1)
 ![Captura de pantalla de 2025-03-20 14-00-06](https://github.com/user-attachments/assets/3c0bf864-4462-43a7-a8ea-d3a79ace1685)
 
