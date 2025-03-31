@@ -41,7 +41,7 @@ Tendremos que ir a Idiomas y seguidamente entrar en los ajustes para poder cambi
 
 En este paso tendremos que irnos a administracion del sitio, despues a seguridad y luego a Politicas de seguridad del sitio, a continuacion tendremos que bajar hasta la mitad y estaran los apartados donde hay que cumplir los requisitos de tener una mayuscula, tener una minuscula, y cifres
 
-### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de Administració del lloc > Gestiona cursos i categories o també des del quadre Navegació anant a Cursos > Afegeix curs
+### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes.
 ![Captura de pantalla de 2025-03-20 13-55-11](https://github.com/user-attachments/assets/15224274-3508-47a8-b783-ef5db18695c1)
 Tendremos que ir a Cursos, seguidamente a Crear un Curso
 
@@ -69,11 +69,31 @@ Asi quedaria
 
 ## 4. Creació d’usuaris i alumnes.
 
-### a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual. Això es pot fer des de Administració del lloc > Usuaris > Comptes > Afegeix un usuari
+### a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual.
+![Captura de pantalla de 2025-03-20 14-08-57](https://github.com/user-attachments/assets/3d132161-b8ab-4d4b-af19-6bfe52916f91)
+Tendremos que llegar al lugar
+
+![Captura de pantalla de 2025-03-20 14-11-25](https://github.com/user-attachments/assets/cb1b229e-0d40-4976-9c08-440097a68a84)
+Aqui pondremos los datos de la persona y pondremos que necesite el metodo de autentificación manual
+
+![Captura de pantalla de 2025-03-20 14-13-12](https://github.com/user-attachments/assets/970e589a-4793-4f9b-9390-510105b0a2c7)
+Asi quedaria
 
 ### b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
+![Captura de pantalla de 2025-03-20 14-15-30](https://github.com/user-attachments/assets/6fe67a44-cf21-4705-9db8-e296e47fd6ee)
+Iremos a Subir usuarios
 
-NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció Usuaris.
+![Captura de pantalla de 2025-03-20 14-24-54](https://github.com/user-attachments/assets/78f954f7-65f8-4888-9318-b81b5db69221)
+Subiremos un archivo CSV donde pondremos todos los alumnos, con sus nombres, correos electronicos y sus contraseñas
+
+![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4588f9bb-329a-4160-80b2-0ce446ebb913)
+Asi quedaria
+
+![Captura de pantalla de 2025-03-20 14-27-40](https://github.com/user-attachments/assets/a65161d5-9fd5-48a4-b8b7-1fbf451eebec)
+Y ahora lo subiremos de forma de archivo y lo subimos para tenerlos
+
+![Captura de pantalla de 2025-03-20 14-32-24](https://github.com/user-attachments/assets/79aa1d8c-9a43-4043-863c-4ef5fe09495a)
+Asi se verian los alumnos matriculados en los cursos con todos sus datos
 
 ### c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció Administració del lloc > Usuaris > Accions amb usuaris en bloc
 
@@ -127,14 +147,7 @@ Crea 10 usuaris alumnes i un usuari professor posant-li dades. Administració de
 
 Assigna al professor a A i B. Matricula els alumnes a A mitjançant Administració del Curs > Usuaris > Usuaris Matriculats i connectat amb un alumne i matricula'l a B amb la contrassenya.
 
-![Captura de pantalla de 2025-03-20 14-08-57](https://github.com/user-attachments/assets/3d132161-b8ab-4d4b-af19-6bfe52916f91)
-![Captura de pantalla de 2025-03-20 14-11-25](https://github.com/user-attachments/assets/cb1b229e-0d40-4976-9c08-440097a68a84)
-![Captura de pantalla de 2025-03-20 14-13-12](https://github.com/user-attachments/assets/970e589a-4793-4f9b-9390-510105b0a2c7)
-![Captura de pantalla de 2025-03-20 14-15-30](https://github.com/user-attachments/assets/6fe67a44-cf21-4705-9db8-e296e47fd6ee)
-![Captura de pantalla de 2025-03-20 14-24-54](https://github.com/user-attachments/assets/78f954f7-65f8-4888-9318-b81b5db69221)
-![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4588f9bb-329a-4160-80b2-0ce446ebb913)
-![Captura de pantalla de 2025-03-20 14-27-40](https://github.com/user-attachments/assets/a65161d5-9fd5-48a4-b8b7-1fbf451eebec)
-![Captura de pantalla de 2025-03-20 14-32-24](https://github.com/user-attachments/assets/79aa1d8c-9a43-4043-863c-4ef5fe09495a)
+
 ![Captura de pantalla de 2025-03-20 14-34-14](https://github.com/user-attachments/assets/49a920ae-a97d-45bc-94e6-4fac087a978f)
 ![Captura de pantalla de 2025-03-20 14-34-33](https://github.com/user-attachments/assets/597e518a-a7bb-43ca-8e47-3d276032de8f)
 ![Captura de pantalla de 2025-03-21 13-47-24](https://github.com/user-attachments/assets/a457fd5f-dad1-436a-b8dd-432e43e4b0dc)
