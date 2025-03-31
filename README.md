@@ -52,12 +52,16 @@ Cuando ya estamos aqui ponemos su respectivo nombre y su categoria y si bajamos.
 Aqui tendremos que poner las secciones que queremos que en este caso son 3 y ahora tendremos que hacer otro
 
 ![Captura de pantalla de 2025-03-20 13-59-56](https://github.com/user-attachments/assets/fb451674-99f3-4b79-b6c5-a0eb0abc51f1)
-![Captura de pantalla de 2025-03-20 14-00-06](https://github.com/user-attachments/assets/3c0bf864-4462-43a7-a8ea-d3a79ace1685)
+Y aqui se hace exactamente lo mismo pero con el nombre B 
 
+![Captura de pantalla de 2025-03-20 14-00-06](https://github.com/user-attachments/assets/3c0bf864-4462-43a7-a8ea-d3a79ace1685)
+En cambio ahora ponemos 5 secciones
 
 ### 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
+![Captura de pantalla de 2025-03-20 14-07-14](https://github.com/user-attachments/assets/f3226516-e573-48ee-b176-5f9ca530bf6d)
+![Captura de pantalla de 2025-03-20 14-07-32](https://github.com/user-attachments/assets/70df79ff-dc2a-4abe-8864-3a4ac445359e)
+![Captura de pantalla de 2025-03-20 14-07-54](https://github.com/user-attachments/assets/27b9770d-9d06-4422-ada4-068c45342dee)
 
-NOTA: Aquestes possibilitats no les estudiarem a fons perquè són una tasca més pròpia del professor que no pas de l'administrador del Moodle, però sempre va bé tenir-ne alguna idea.
 
 ## 4. Creació d’usuaris i alumnes.
 
