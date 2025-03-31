@@ -79,7 +79,7 @@ Aqui pondremos los datos de la persona y pondremos que necesite el metodo de aut
 ![Captura de pantalla de 2025-03-20 14-13-12](https://github.com/user-attachments/assets/970e589a-4793-4f9b-9390-510105b0a2c7)
 Asi quedaria
 
-### b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
+### b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc.
 ![Captura de pantalla de 2025-03-20 14-15-30](https://github.com/user-attachments/assets/6fe67a44-cf21-4705-9db8-e296e47fd6ee)
 Iremos a Subir usuarios
 
@@ -96,18 +96,54 @@ Y ahora lo subiremos de forma de archivo y lo subimos para tenerlos
 Asi se verian los alumnos matriculados en los cursos con todos sus datos
 
 ### c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció Administració del lloc > Usuaris > Accions amb usuaris en bloc
+![Captura de pantalla de 2025-03-20 14-34-33](https://github.com/user-attachments/assets/597e518a-a7bb-43ca-8e47-3d276032de8f)
+Ahora tendremos que eliminar a dos alumnos, tendremos que meterlos en la columna de la derecha, simplemente añadiendolos
+
+![Captura de pantalla de 2025-03-21 13-47-24](https://github.com/user-attachments/assets/a457fd5f-dad1-436a-b8dd-432e43e4b0dc)
+A continuación tendremos que seleccionarlos y darle a Eliminar
+
+![Captura de pantalla de 2025-03-21 13-49-19](https://github.com/user-attachments/assets/e9c2cb72-cda6-43a8-a1ca-605047afa0a9)
+Asi se veria con los alumnos eliminados
 
 ## 5. Ara matricula aquests usuaris als diferents cursos.
 
 ### a) Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). Tot això ho pots fer des de Administració del curs > Ususaris > Mètodes d'inscripció. Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: Administració de lloc > Connectors > Autenticació > Gestió de l'autenticació
+![Captura de pantalla de 2025-03-21 13-56-32](https://github.com/user-attachments/assets/11ac8b96-8c06-4492-ad57-c04d287e0066)
+Tendremos que poner los signos que se muestran tal y como sale para poder ocultar a mostrar a los alumnos
+
+![Captura de pantalla de 2025-03-21 14-06-52](https://github.com/user-attachments/assets/50533cd5-2985-49a9-9e4e-9c27acd29d55)
+Aqui tendremos que hacer lo mismo, tambien siguiendo los pasos de la foto y los signos
+
+![Captura de pantalla de 2025-03-21 14-10-23](https://github.com/user-attachments/assets/fe9b5568-8049-435a-a0de-021b4d96d959)
+Una vez estamos aqui son las opciones de matriculacion para poner a los alumnos en el curso correspondiente, simplemnte tendremos que darle a buscar y nos saldran todos los alumnos como se puede ver a continuación
+
+![Captura de pantalla de 2025-03-21 14-11-25](https://github.com/user-attachments/assets/5853b5d3-f5ce-439a-8963-2e1d81d392ca)
+Una vez buscados, le daremos a Matricular Usuarios 
 
 ### b) Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a Administració del curs > Usuaris inscrits > Inscriure.
+![Captura de pantalla de 2025-03-21 14-11-51](https://github.com/user-attachments/assets/ec95a413-046f-451f-9241-66eee5b95b13)
+Aqui se puede observar como le cambiamos los roles desde ese apartado y habrian dos profesores
 
 ### c) Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
+![Captura de pantalla de 2025-03-21 14-14-40](https://github.com/user-attachments/assets/7cf8301b-2854-41d6-8346-3de1e382fa3a)
+Habiendo echo todo, aqui se puede ver los dos cursos, el A esta abierto para todo el mundo, en cambio el B si nos metemos...
+
+![Captura de pantalla de 2025-03-21 14-15-15](https://github.com/user-attachments/assets/08055ba4-d681-4020-9069-f070a4142a13)
+Si nos metemos tendriamos que iniciar sesion para poder acceder al Curso B
 
 ### 6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. Això ho pots fer primer anant a Administració del lloc > Connectors > Instal·lar complement i després a Administració del lloc > Aparença > Temes > Selector de temes Sempre pots fer servir l'enllaç Canvi de rol del menú de la dreta per observar com es veuria el lloc sent alumne, professor, etc.
+![Captura de pantalla de 2025-03-21 14-24-58](https://github.com/user-attachments/assets/5798c9e4-2e0d-4261-824e-c4c74682a24c)
+Tendremos que ir a Instalar temas y tendremos 2, el que tenemos activado, y el otro, en este caso usaremos el otro entonces asi se veria activado con diferente menu y pie de pagina
 
 ### 7. Assigna un professor i matricula alumnes al curs A.
+![Captura de pantalla de 2025-03-21 14-11-25](https://github.com/user-attachments/assets/5853b5d3-f5ce-439a-8963-2e1d81d392ca)
+Aqui haremos el mismo paso que hizimos antes en el Curso B, que seria matricular a alumnos, y seguidamente...
+
+![Captura de pantalla de 2025-03-21 14-30-40](https://github.com/user-attachments/assets/63cd9fcb-4106-461d-bf29-b5a53e764a69)
+Se puede observar como estan matriculados en el curso A como sale arriba a la izquierda
+
+![Captura de pantalla de 2025-03-21 14-30-49](https://github.com/user-attachments/assets/52db5d67-2c72-4a2d-b405-4dec99b0f5f5)
+Y aqui unicamente le dariamos al rol que tiene el alumno que en este caso era estudiante y lo cambiamos. Ahora seria tambien profesor Bob Ciprian
 
 ### 8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
 
@@ -139,28 +175,11 @@ Seguretat
 
 Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
 
-NOTA: Capturar per a cada pregunta, les imatges que han de mostrar la resposta, i tenir-les a mà, farà que sigui molt més fàcil contestar les preguntes el dia de l’avaluació!
-Usuaris
-
 
 Crea 10 usuaris alumnes i un usuari professor posant-li dades. Administració del Lloc > Usuaris > Crear Usuari / Pujar Usuaris (de cop amb un arxiu csv, hi ha un model de csv al final del document).
 
 Assigna al professor a A i B. Matricula els alumnes a A mitjançant Administració del Curs > Usuaris > Usuaris Matriculats i connectat amb un alumne i matricula'l a B amb la contrassenya.
 
 
-![Captura de pantalla de 2025-03-20 14-34-14](https://github.com/user-attachments/assets/49a920ae-a97d-45bc-94e6-4fac087a978f)
-![Captura de pantalla de 2025-03-20 14-34-33](https://github.com/user-attachments/assets/597e518a-a7bb-43ca-8e47-3d276032de8f)
-![Captura de pantalla de 2025-03-21 13-47-24](https://github.com/user-attachments/assets/a457fd5f-dad1-436a-b8dd-432e43e4b0dc)
-![Captura de pantalla de 2025-03-21 13-49-19](https://github.com/user-attachments/assets/e9c2cb72-cda6-43a8-a1ca-605047afa0a9)
-![Captura de pantalla de 2025-03-21 13-56-32](https://github.com/user-attachments/assets/11ac8b96-8c06-4492-ad57-c04d287e0066)
-![Captura de pantalla de 2025-03-21 14-06-52](https://github.com/user-attachments/assets/50533cd5-2985-49a9-9e4e-9c27acd29d55)
-![Captura de pantalla de 2025-03-21 14-10-23](https://github.com/user-attachments/assets/fe9b5568-8049-435a-a0de-021b4d96d959)
-![Captura de pantalla de 2025-03-21 14-11-25](https://github.com/user-attachments/assets/5853b5d3-f5ce-439a-8963-2e1d81d392ca)
-![Captura de pantalla de 2025-03-21 14-11-51](https://github.com/user-attachments/assets/ec95a413-046f-451f-9241-66eee5b95b13)
-![Captura de pantalla de 2025-03-21 14-14-40](https://github.com/user-attachments/assets/7cf8301b-2854-41d6-8346-3de1e382fa3a)
-![Captura de pantalla de 2025-03-21 14-15-15](https://github.com/user-attachments/assets/08055ba4-d681-4020-9069-f070a4142a13)
-![Captura de pantalla de 2025-03-21 14-24-58](https://github.com/user-attachments/assets/5798c9e4-2e0d-4261-824e-c4c74682a24c)
-![Captura de pantalla de 2025-03-21 14-30-40](https://github.com/user-attachments/assets/63cd9fcb-4106-461d-bf29-b5a53e764a69)
-![Captura de pantalla de 2025-03-21 14-30-49](https://github.com/user-attachments/assets/52db5d67-2c72-4a2d-b405-4dec99b0f5f5)
 ![Captura de pantalla de 2025-03-28 13-39-37](https://github.com/user-attachments/assets/72958ee4-c54a-410a-ba9a-c5dc336f009e)
 ![Captura de pantalla de 2025-03-28 13-40-21](https://github.com/user-attachments/assets/9820fb02-016f-4c5c-911b-2ee8783441d6)
