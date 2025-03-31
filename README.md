@@ -59,9 +59,13 @@ En cambio ahora ponemos 5 secciones
 
 ### 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
 ![Captura de pantalla de 2025-03-20 14-07-14](https://github.com/user-attachments/assets/f3226516-e573-48ee-b176-5f9ca530bf6d)
-![Captura de pantalla de 2025-03-20 14-07-32](https://github.com/user-attachments/assets/70df79ff-dc2a-4abe-8864-3a4ac445359e)
-![Captura de pantalla de 2025-03-20 14-07-54](https://github.com/user-attachments/assets/27b9770d-9d06-4422-ada4-068c45342dee)
+Nos iremos al curso A y le daremos a subir un archivo en un tema
 
+![Captura de pantalla de 2025-03-20 14-07-32](https://github.com/user-attachments/assets/70df79ff-dc2a-4abe-8864-3a4ac445359e)
+Aqui dentro cambiaremos en nombre y justo abajo subiremos un Pdf
+
+![Captura de pantalla de 2025-03-20 14-07-54](https://github.com/user-attachments/assets/27b9770d-9d06-4422-ada4-068c45342dee)
+Asi quedaria 
 
 ## 4. Creació d’usuaris i alumnes.
 
@@ -123,10 +127,6 @@ Crea 10 usuaris alumnes i un usuari professor posant-li dades. Administració de
 
 Assigna al professor a A i B. Matricula els alumnes a A mitjançant Administració del Curs > Usuaris > Usuaris Matriculats i connectat amb un alumne i matricula'l a B amb la contrassenya.
 
-
-![Captura de pantalla de 2025-03-20 14-07-14](https://github.com/user-attachments/assets/5466d07b-d8bf-4fcb-a1bb-b6d85dc0ffb8)
-![Captura de pantalla de 2025-03-20 14-07-32](https://github.com/user-attachments/assets/1c892f14-ba05-4bfc-b6ad-d92b2f6ed7b2)
-![Captura de pantalla de 2025-03-20 14-07-54](https://github.com/user-attachments/assets/f91bb535-c35e-48a3-9a3b-6b86ee9e51d3)
 ![Captura de pantalla de 2025-03-20 14-08-57](https://github.com/user-attachments/assets/3d132161-b8ab-4d4b-af19-6bfe52916f91)
 ![Captura de pantalla de 2025-03-20 14-11-25](https://github.com/user-attachments/assets/cb1b229e-0d40-4976-9c08-440097a68a84)
 ![Captura de pantalla de 2025-03-20 14-13-12](https://github.com/user-attachments/assets/970e589a-4793-4f9b-9390-510105b0a2c7)
