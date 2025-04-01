@@ -146,9 +146,15 @@ Se puede observar como estan matriculados en el curso A como sale arriba a la iz
 Y aqui unicamente le dariamos al rol que tiene el alumno que en este caso era estudiante y lo cambiamos. Ahora seria tambien profesor Bob Ciprian
 
 ### 8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
+![Captura de pantalla de 2025-04-01 10-28-24](https://github.com/user-attachments/assets/41ab1970-cb25-4e78-91af-3ba297562351)
+Dentro del curso con el profesor añadiremos una tasca donde podamos poner un pdf y las fechas como se puede ver en la imagen 
 
 ### 9. Entra amb un alumne i comprova que pots lliurar la tasca.
-Continguts
+![Captura de pantalla de 2025-04-01 10-38-31](https://github.com/user-attachments/assets/7c25b3a9-5bf8-4dbd-b0e5-7b6f90db48b0)
+Una vez estamos dentro del alumno miramos que podamos entregarla la tasca y como se ve si se puede
+
+![Captura de pantalla de 2025-04-01 10-39-47](https://github.com/user-attachments/assets/16e92904-173d-4635-aeb0-1679d3f5f10c)
+La entregamos para verificar que esta activa
 
 ### En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
 
@@ -181,5 +187,3 @@ Crea 10 usuaris alumnes i un usuari professor posant-li dades. Administració de
 Assigna al professor a A i B. Matricula els alumnes a A mitjançant Administració del Curs > Usuaris > Usuaris Matriculats i connectat amb un alumne i matricula'l a B amb la contrassenya.
 
 
-![Captura de pantalla de 2025-03-28 13-39-37](https://github.com/user-attachments/assets/72958ee4-c54a-410a-ba9a-c5dc336f009e)
-![Captura de pantalla de 2025-03-28 13-40-21](https://github.com/user-attachments/assets/9820fb02-016f-4c5c-911b-2ee8783441d6)
