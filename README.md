@@ -178,7 +178,7 @@ Aqui haremos lo mismo pero en otra seccion, como sale en la foto -
 #### En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a Administració del Curs > Configuració de qualificacions.
 
 
-Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
+#### Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
 ![Captura de pantalla de 2025-04-01 10-56-24](https://github.com/user-attachments/assets/53357e50-cd97-4dab-8188-d236a5f4601c)
 En el apartado de la derercha, (el menu) veremos el apartado Insignias, entraremos y tendremos que poner el nombre, la descripcion y la imagen que querremos
 
