@@ -158,31 +158,46 @@ La entregamos para verificar que esta activa
 
 ### Continguts
 En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
+![Captura de pantalla de 2025-04-01 10-51-48](https://github.com/user-attachments/assets/86ad5b80-84ce-458f-b7ab-3f6937321546)
+![Captura de pantalla de 2025-04-01 10-52-41](https://github.com/user-attachments/assets/aeeb6c2b-59f6-4cc8-af7e-7b4fc60f55f4)
+![Captura de pantalla de 2025-04-01 10-53-39](https://github.com/user-attachments/assets/4335a0f1-c203-4e86-9f5a-da75767c64e6)
+
 
 Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a Temes a Administració del Curs > Editar Curs > Format del Curs
 
+
 Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B Administració del Curs > Importar (des del curs B)
+
 
 ### Qualificació
 
 En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a Administració del Curs > Configuració de qualificacions.
 
+
 Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
+![Captura de pantalla de 2025-04-01 10-56-24](https://github.com/user-attachments/assets/53357e50-cd97-4dab-8188-d236a5f4601c)
+![Captura de pantalla de 2025-04-01 10-57-28](https://github.com/user-attachments/assets/c454e7ab-2292-4f61-aee6-7225f455d5f4)
+![Captura de pantalla de 2025-04-01 10-57-37](https://github.com/user-attachments/assets/daa5605b-a5ab-41bd-8433-bcecc65b6a23)
+
 
 ### Qüestionaris
 
 Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
 
+
 ### Importar i exportar un curs
 
 Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
 
+
 ### Personalització
 
 Descarrega i aplica un tema nou al teu LMS.
+
 
 Edita també tant la capçalera (header) com el peu (footer) i la pàgina principal (Front page) Posa-li un logotip al teu moodle.
 
 ### Seguretat
 
 Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
+
