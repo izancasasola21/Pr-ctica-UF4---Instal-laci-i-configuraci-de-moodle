@@ -157,7 +157,7 @@ Una vez estamos dentro del alumno miramos que podamos entregarla la tasca y como
 La entregamos para verificar que esta activa
 
 ### Continguts
-En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
+#### En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
 ![Captura de pantalla de 2025-04-01 10-51-48](https://github.com/user-attachments/assets/86ad5b80-84ce-458f-b7ab-3f6937321546)
 Tendremos que irnos al curso A, y ahi añadir seccion y cambiarle el nombre y entrar dentro de la seccion
 
@@ -167,15 +167,15 @@ Dentro de la seccion tendremos que poner el mismo nombre en grande en la descrip
 ![Captura de pantalla de 2025-04-01 10-53-39](https://github.com/user-attachments/assets/4335a0f1-c203-4e86-9f5a-da75767c64e6)
 Aqui haremos lo mismo pero en otra seccion, como sale en la foto -
 
-Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a Temes a Administració del Curs > Editar Curs > Format del Curs
+#### Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a Temes a Administració del Curs > Editar Curs > Format del Curs
 
 
-Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B Administració del Curs > Importar (des del curs B)
+#### Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B Administració del Curs > Importar (des del curs B)
 
 
 ### Qualificació
 
-En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a Administració del Curs > Configuració de qualificacions.
+#### En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a Administració del Curs > Configuració de qualificacions.
 
 
 Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
@@ -190,22 +190,22 @@ Y una vez aceptamos asi se veria la insignia de la persona a la que se la hemos 
 
 ### Qüestionaris
 
-Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
+#### Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
 
 
 ### Importar i exportar un curs
 
-Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
+#### Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
 
 
 ### Personalització
 
-Descarrega i aplica un tema nou al teu LMS.
+#### Descarrega i aplica un tema nou al teu LMS.
 
 
-Edita també tant la capçalera (header) com el peu (footer) i la pàgina principal (Front page) Posa-li un logotip al teu moodle.
+#### Edita també tant la capçalera (header) com el peu (footer) i la pàgina principal (Front page) Posa-li un logotip al teu moodle.
 
 ### Seguretat
 
-Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
+#### Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
 
