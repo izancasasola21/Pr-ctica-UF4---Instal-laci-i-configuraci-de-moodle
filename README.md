@@ -159,9 +159,13 @@ La entregamos para verificar que esta activa
 ### Continguts
 En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
 ![Captura de pantalla de 2025-04-01 10-51-48](https://github.com/user-attachments/assets/86ad5b80-84ce-458f-b7ab-3f6937321546)
-![Captura de pantalla de 2025-04-01 10-52-41](https://github.com/user-attachments/assets/aeeb6c2b-59f6-4cc8-af7e-7b4fc60f55f4)
-![Captura de pantalla de 2025-04-01 10-53-39](https://github.com/user-attachments/assets/4335a0f1-c203-4e86-9f5a-da75767c64e6)
+Tendremos que irnos al curso A, y ahi añadir seccion y cambiarle el nombre y entrar dentro de la seccion
 
+![Captura de pantalla de 2025-04-01 10-52-41](https://github.com/user-attachments/assets/aeeb6c2b-59f6-4cc8-af7e-7b4fc60f55f4)
+Dentro de la seccion tendremos que poner el mismo nombre en grande en la descripcion
+
+![Captura de pantalla de 2025-04-01 10-53-39](https://github.com/user-attachments/assets/4335a0f1-c203-4e86-9f5a-da75767c64e6)
+Aqui haremos lo mismo pero en otra seccion, como sale en la foto -
 
 Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a Temes a Administració del Curs > Editar Curs > Format del Curs
 
