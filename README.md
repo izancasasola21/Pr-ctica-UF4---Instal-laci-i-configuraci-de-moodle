@@ -180,9 +180,13 @@ En el curs A fes que un alumne completi totes les tasques evaluables (entrant am
 
 Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
 ![Captura de pantalla de 2025-04-01 10-56-24](https://github.com/user-attachments/assets/53357e50-cd97-4dab-8188-d236a5f4601c)
-![Captura de pantalla de 2025-04-01 10-57-28](https://github.com/user-attachments/assets/c454e7ab-2292-4f61-aee6-7225f455d5f4)
-![Captura de pantalla de 2025-04-01 10-57-37](https://github.com/user-attachments/assets/daa5605b-a5ab-41bd-8433-bcecc65b6a23)
+En el apartado de la derercha, (el menu) veremos el apartado Insignias, entraremos y tendremos que poner el nombre, la descripcion y la imagen que querremos
 
+![Captura de pantalla de 2025-04-01 10-57-28](https://github.com/user-attachments/assets/c454e7ab-2292-4f61-aee6-7225f455d5f4)
+Aqui tendremos que poner donde lo queremos 
+
+![Captura de pantalla de 2025-04-01 10-57-37](https://github.com/user-attachments/assets/daa5605b-a5ab-41bd-8433-bcecc65b6a23)
+Y una vez aceptamos asi se veria la insignia de la persona a la que se la hemos puesto
 
 ### Qüestionaris
 
