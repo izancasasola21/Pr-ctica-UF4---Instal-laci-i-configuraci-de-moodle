@@ -206,7 +206,11 @@ Añade las preguntas desde el banco de preguntas
 ### Importar i exportar un curs
 
 #### Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
+![Captura desde 2025-04-03 23-38-30](https://github.com/user-attachments/assets/c518f5b1-d50b-4f5f-9ad8-6501ae4a1b25)
 ![Captura desde 2025-04-03 22-50-33](https://github.com/user-attachments/assets/4961a135-1573-4d59-a0c1-6a734fc466be)
+![Captura desde 2025-04-03 23-38-58](https://github.com/user-attachments/assets/943b83ce-52d9-4b7d-b845-1457474687ce)
+![Captura desde 2025-04-03 23-39-19](https://github.com/user-attachments/assets/1b11931e-d0ee-49ad-ae15-7552a0aa86a4)
+![Captura desde 2025-04-03 23-39-34](https://github.com/user-attachments/assets/7e1ebdb3-b4a0-4166-ac30-6fa08c9a1c56)
 
 
 ### Seguretat
