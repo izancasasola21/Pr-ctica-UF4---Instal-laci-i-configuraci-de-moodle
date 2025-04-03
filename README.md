@@ -191,21 +191,28 @@ Y una vez aceptamos asi se veria la insignia de la persona a la que se la hemos 
 ### Qüestionaris
 
 #### Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
+![Captura desde 2025-04-03 22-53-59(1)](https://github.com/user-attachments/assets/db4d470f-7493-465f-88b2-6f7053e15245)
+![Captura desde 2025-04-03 23-10-46(1)](https://github.com/user-attachments/assets/d6821152-16df-4c5b-b70e-29a4d68d24ec)
+![Captura desde 2025-04-03 23-00-43(1)](https://github.com/user-attachments/assets/506ea5b8-af0f-4ef3-aaa2-a7e4c9d1475c)
+![Captura desde 2025-04-03 23-03-06(1)](https://github.com/user-attachments/assets/e8d04cdd-e9fd-4423-96f2-615f628adbc7)
 
+Añade las preguntas desde el banco de preguntas 
+
+![Captura desde 2025-04-03 23-06-07](https://github.com/user-attachments/assets/26efd9a6-7552-4950-b7c9-558ed6601373)
+![Captura desde 2025-04-03 23-06-26(1)](https://github.com/user-attachments/assets/6ddc3459-951d-4597-8cfa-4e88ad22d210)
+![Captura desde 2025-04-03 23-13-27(1)](https://github.com/user-attachments/assets/af7efa22-f30d-4210-8d99-ac16c7406d04)
+![Captura desde 2025-04-03 23-13-49](https://github.com/user-attachments/assets/95fe816f-72b7-4672-b2f4-b2fb9d90a284)
 
 ### Importar i exportar un curs
 
 #### Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
+![Captura desde 2025-04-03 22-50-33](https://github.com/user-attachments/assets/4961a135-1573-4d59-a0c1-6a734fc466be)
 
-
-### Personalització
-
-#### Descarrega i aplica un tema nou al teu LMS.
-
-
-#### Edita també tant la capçalera (header) com el peu (footer) i la pàgina principal (Front page) Posa-li un logotip al teu moodle.
 
 ### Seguretat
 
 #### Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
+![Captura desde 2025-04-03 22-41-49](https://github.com/user-attachments/assets/c83690c1-677b-4b81-8794-109b87274a70)
+![Captura desde 2025-04-03 22-43-15](https://github.com/user-attachments/assets/78a5e5eb-d8ba-4e2e-81eb-330ace8f5c81)
+
 
