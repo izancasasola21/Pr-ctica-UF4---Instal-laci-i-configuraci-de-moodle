@@ -167,15 +167,10 @@ Dentro de la seccion tendremos que poner el mismo nombre en grande en la descrip
 ![Captura de pantalla de 2025-04-01 10-53-39](https://github.com/user-attachments/assets/4335a0f1-c203-4e86-9f5a-da75767c64e6)
 Aqui haremos lo mismo pero en otra seccion, como sale en la foto -
 
-#### Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a Temes a Administració del Curs > Editar Curs > Format del Curs
-
-
-#### Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B Administració del Curs > Importar (des del curs B)
-
-
 ### Qualificació
 
 #### En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a Administració del Curs > Configuració de qualificacions.
+![Captura desde 2025-04-03 23-50-53](https://github.com/user-attachments/assets/d4e212ef-5422-47e6-8ae1-56b7e223ce85)
 
 
 #### Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
